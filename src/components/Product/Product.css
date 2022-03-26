@@ -3,6 +3,7 @@
     height: 400px;
     border: 1px solid lightgray;
     border-radius: 10px;
+    position: relative;
 }
 
 .product img{
@@ -10,9 +11,24 @@
     border-radius: 10px;
     margin: 5px;
 }
-.product-info{
-    margin: 10px;
+.product-name{
+    margin: 10px 0px;
 }
-.btn-text{
+.product-info{
+    margin-left: 10px;
+    margin-bottom: 0;
+    margin-top: 5px;
+
+
+}
+.btn-cart{
     width: 100%;
+    background-color:rgb(243, 195, 104);
+    border: none;
+    border-radius: 0px 0px 10px 10px;
+    position: absolute;
+    bottom: 0;
+}
+.btn-cart:hover{
+    background-color: orange;
 }
