@@ -5,6 +5,7 @@ const Cart = (props) => {
     const { name } = props.cart;
     return (
         <div>
+
             <p>{name}</p>
         </div>
     );

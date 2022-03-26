@@ -1,6 +1,7 @@
 .shop-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
+    
    
 }
 .products-container{
@@ -8,18 +9,18 @@
     grid-template-columns: repeat(3,1fr);
     gap:50px;
 }
-/* @media only screen and (max-width: 576px){
-    .shop-container{
-        display: flex;
-        
-    }
-    
- }; */
+.cart-container{
+    background-color: burlywood;
+}
 @media only screen and (max-width: 688px){
+    .shop-container{
+        grid-template-columns: repeat(1,1fr)
+    }
     .products-container{    
+        flex-direction: column;
         grid-template-columns: repeat(1, 1fr)
     }
-   
-};
+ };
+
 
     

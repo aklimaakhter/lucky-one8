@@ -17,9 +17,11 @@ const Shop = () => {
         const newCart = [...carts, product];
         setCarts(newCart)
     }
-    const handleChooseOne = () => {
-        console.log('clicked');
-    }
+    // function handleChooseOne() {
+    //     return Math.floor(Math.random() * product.length;
+
+    // }
+
     return (
         <div className='shop-container'>
             <div className='products-container'>
@@ -31,7 +33,7 @@ const Shop = () => {
                     ></Product>)
                 }
             </div>
-            <div>
+            <div className='cart-container'>
                 <h4>Selected Watch:</h4>
                 {
                     carts.map(cart => <Cart
@@ -39,7 +41,7 @@ const Shop = () => {
                         cart={cart}
                     ></Cart>)
                 }
-                <button onClick={handleChooseOne}>CHOOSE 1 FOR ME</button>
+                <button>CHOOSE 1 FOR ME</button>
 
                 <button>CHOOSE AGAIN</button>
             </div>

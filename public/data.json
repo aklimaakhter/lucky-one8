@@ -1,9 +1,9 @@
 [
     {
         "id": "1",
-        "price": 3000,
+        "price": 3500,
         "img": "https://img.freepik.com/free-psd/high-angle-modern-blue-smartwatch-with-screen-mock-up_23-2148787559.jpg?w=740&t=st=1648274447~exp=1648275047~hmac=d381a41d280c2fbd4b9a66ef9d68c1d91586a3ee37e79310cfb15947457ae174",
-        "name": "Harris Banks"
+        "name": "Amazfit Bip U Smart Watch"
     },
     {
         "id": "2",
@@ -13,19 +13,19 @@
     },
     {
         "id": "3",
-        "price": 3000,
+        "price": 3300,
         "img": "https://img.freepik.com/free-psd/realistic-smart-watch-mockup_165789-534.jpg?w=740",
-        "name": "Rivers Hunt"
+        "name": "Samsung Galaxy Watch."
     },
     {
         "id": "4",
-        "price": 3000,
+        "price": 2500,
         "img": "https://img.freepik.com/free-photo/smartwatch-white-podium_125540-1602.jpg?size=626&ext=jpg&ga=GA1.2.1477182818.1645024814",
         "name": "Loretta Strong"
     },
     {
         "id": "5",
-        "price": 3000,
+        "price": 2700,
         "img": "https://img.freepik.com/free-psd/smartwatch-mockup_125540-1277.jpg?size=626&ext=jpg&ga=GA1.2.1477182818.1645024814",
         "name": "Snow Charles"
     },
@@ -33,24 +33,24 @@
         "id": "6",
         "price": 3000,
         "img": "https://img.freepik.com/free-psd/smartwatch-mockup-premium-psd_92914-340.jpg?size=626&ext=jpg&ga=GA1.2.1477182818.1645024814",
-        "name": "Madeleine Acosta"
+        "name": "Garmin Forerunner 245."
     },
     {
         "id": "7",
-        "price": 3000,
+        "price": 3100,
         "img": "https://img.freepik.com/free-photo/black-modern-smart-watch-located-white-background_2221-165.jpg?size=626&ext=jpg&ga=GA1.1.1477182818.1645024814",
-        "name": "Madeleine Acosta"
+        "name": "Noise Colorfit Pro 2"
     },
     {
         "id": "8",
-        "price": 3000,
+        "price": 3400,
         "img": "https://img.freepik.com/free-psd/red-smartwatch-mockup_23-2147862193.jpg?size=626&ext=jpg&ga=GA1.2.1477182818.1645024814",
-        "name": "Madeleine Acosta"
+        "name": "Fitbit FB507BKBK Versa 2"
     },
     {
         "id": "9",
-        "price": 3000,
+        "price": 2000,
         "img": "https://img.freepik.com/free-psd/smartwatch-mock-up-design_1135-61.jpg?size=626&ext=jpg&ga=GA1.1.1477182818.1645024814",
-        "name": "Madeleine Acosta"
+        "name": "Mi Smart Band 4"
     }
 ]
